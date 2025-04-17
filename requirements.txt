@@ -1,0 +1,11 @@
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+pydantic
+wikipedia 
+langchain-core
+duckduckgo-search
+asyncio
+logfire
+pydantic-ai
